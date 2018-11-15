@@ -1,4 +1,4 @@
 def main():
-    print("Refreshed my Memory")
+    print("Refreshing my Memory")
 
 main()
