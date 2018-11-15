@@ -1,4 +1,4 @@
 def main():
-    print("Let's Begin")
+    print("Testing")
 
 main()
